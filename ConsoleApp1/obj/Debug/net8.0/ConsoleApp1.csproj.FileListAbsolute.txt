@@ -2,3 +2,18 @@ C:\Users\GAMING PC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Console
 C:\Users\GAMING PC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
 C:\Users\GAMING PC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
 C:\Users\GAMING PC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\GAMING PC\Documents\SPACE INVADERS\Space-Invaders\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

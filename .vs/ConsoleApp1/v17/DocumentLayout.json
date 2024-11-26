@@ -1,66 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase torresdefensivas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase torresdefensivas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase disparo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase disparo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase ovni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase ovni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase bloquedeenemigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase bloquedeenemigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase enemigo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase enemigo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase enemigo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase enemigo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase enemigo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase torresdefensivas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase torresdefensivas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\clase program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase enemigo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase enemigo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase ovni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase ovni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase disparo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase disparo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase bloquedeenemigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase bloquedeenemigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gaming pc\\documents\\space invaders\\space-invaders\\consoleapp1\\clase bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71777324-3682-4CF4-8161-3FF1CFBF2F5A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clase bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,206 +70,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Clase TorresDefensivas.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase TorresDefensivas.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase TorresDefensivas.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase TorresDefensivas.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase TorresDefensivas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T09:02:04.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Clase Nave.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Nave.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Nave.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Nave.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Nave.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:27:10.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Clase Juego.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Juego.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Juego.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Juego.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Juego.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:14:12.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Clase Disparo.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Disparo.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Disparo.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Disparo.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Disparo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T06:52:14.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Clase Enemigo.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Enemigo.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Enemigo.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Enemigo.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Enemigo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Title": "Clase Ovni.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Ovni.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Ovni.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Ovni.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Ovni.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:30:39.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T06:59:54.079Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Clase Enemigo1.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Enemigo1.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Enemigo1.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Enemigo1.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Enemigo1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Title": "Clase Enemigo2.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Enemigo2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Enemigo2.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Enemigo2.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Enemigo2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:59:11.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T06:00:47.122Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Clase Enemigo2.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Enemigo2.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Enemigo2.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Enemigo2.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Enemigo2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Title": "Clase Juego.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Juego.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Juego.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Juego.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T06:00:47.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T05:14:12.048Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Clase BloqueDeEnemigos.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase BloqueDeEnemigos.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase BloqueDeEnemigos.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase BloqueDeEnemigos.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase BloqueDeEnemigos.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwB8AAAAJAAAAAAAAAA==",
+              "Title": "Clase Marcador.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Marcador.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Marcador.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Marcador.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Marcador.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T06:37:28.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T07:44:18.724Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Clase Ovni.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Ovni.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Ovni.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Ovni.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Ovni.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwC8AAAAQAAAAAAAAAA==",
+              "Title": "Clase Nave.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Nave.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Nave.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Nave.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Nave.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T06:59:54.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T05:27:10.702Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Clase Partida.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Partida.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Partida.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Clase Partida.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Partida.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Partida.cs",
               "RelativeToolTip": "ConsoleApp1\\Clase Partida.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T05:20:11.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Clase Sprite.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Sprite.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Sprite.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Sprite.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Sprite.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwB4AAAAQAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Clase Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Program.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:33:38.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T05:14:00.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Clase Marcador.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Marcador.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Marcador.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Marcador.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Marcador.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Clase Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Sprite.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Sprite.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Sprite.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Sprite.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:44:18.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T05:33:38.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clase TorresDefensivas.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase TorresDefensivas.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase TorresDefensivas.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase TorresDefensivas.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase TorresDefensivas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:02:04.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:13:44.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clase Enemigo1.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Enemigo1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Enemigo1.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Enemigo1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Enemigo1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:59:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Clase Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Enemigo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Enemigo.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Enemigo.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Enemigo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:30:39.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Clase Bienvenida.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Bienvenida.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Bienvenida.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Bienvenida.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Bienvenida.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Title": "Clase Disparo.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Disparo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Disparo.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Disparo.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Disparo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:18:12.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T06:52:14.448Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Clase Program.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Program.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Clase Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clase Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Clase BloqueDeEnemigos.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase BloqueDeEnemigos.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase BloqueDeEnemigos.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase BloqueDeEnemigos.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase BloqueDeEnemigos.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwJEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:14:00.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T06:37:28.338Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\GAMING PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Title": "Clase Bienvenida.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Bienvenida.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clase Bienvenida.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\Documents\\SPACE INVADERS\\Space-Invaders\\ConsoleApp1\\Clase Bienvenida.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clase Bienvenida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:13:44.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-11-14T05:18:12.554Z"
             }
           ]
         }
